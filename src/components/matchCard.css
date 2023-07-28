@@ -1,0 +1,21 @@
+.mainDiv
+{
+    background-color: #0F172A;
+    color: white;
+    font-weight: 600;
+    height: 362px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.logos-card
+{
+    height: 155px;
+    width: 120px;
+}
+.Won {
+    color: #18ed66;
+  }
+  
+  .Lost {
+    color: #e31a1a;
+  }

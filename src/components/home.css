@@ -1,0 +1,10 @@
+.mainContainer
+{
+    background-image: url(https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    background-position: center;
+    color: white;
+    min-height: 100vh;
+}
+
